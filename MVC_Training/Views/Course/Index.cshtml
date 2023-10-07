@@ -1,0 +1,32 @@
+﻿@model List<MVC_Training.Models.Course>
+
+<h2>Courses</h2>
+
+
+<table cellpadding="0" cellspacing="0" width="90%">
+    <thead>
+        <tr>
+            <th>Course ID</th>
+            <th>Course Name</th>
+            <th>Course Code</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var course in Model)
+        {
+            <tr>
+                <td valign="middle" data-header-title="Id"><span>@course.courseId</span></td>
+                <td valign="middle" data-header-title="Name"><a href="/Course/GetCourse/@course.courseId">@course.courseName</a></td>
+                <td valign="middle" data-header-title="No">@course.CourseCode</td>
+                <td><a href="/Course/DeleteCourse/@course.courseId">Delete</a></td>
+            </tr>
+
+        }
+
+
+    </tbody>
+</table>
+
+
+

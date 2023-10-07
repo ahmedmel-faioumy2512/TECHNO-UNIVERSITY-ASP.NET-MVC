@@ -1,0 +1,32 @@
+﻿@model List<MVC_Training.Models.Room>
+
+<h2>Rooms</h2>
+
+
+<table cellpadding="0" cellspacing="0" width="90%">
+    <thead>
+        <tr>
+            <th>Room ID</th>
+            <th>Room Name</th>
+            <th>Room Size</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var room in Model)
+        {
+            <tr>
+                <td valign="middle" data-header-title="Id"><span>@room.roomID</span></td>
+                <td valign="middle" data-header-title="Name"><a href="/Room/GetDetails/@room.roomID">@room.roomName</a></td>
+                <td valign="middle" data-header-title="No">@room.roomSize</td>
+                <td><a href="/Room/DeleteRoom/@room.roomID">Delete</a></td>
+            </tr>
+
+        }
+
+
+    </tbody>
+</table>
+
+
+

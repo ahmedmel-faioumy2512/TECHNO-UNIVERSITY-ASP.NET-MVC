@@ -1,0 +1,312 @@
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\csc.exe
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\vbc.exe
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\VBCSCompiler.exe
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\MVC_Training.dll.config
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\MVC_Training.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\MVC_Training.pdb
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Antlr3.Runtime.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\EntityFramework.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\EntityFramework.SqlServer.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Newtonsoft.Json.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Owin.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Net.Http.Formatting.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Helpers.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Http.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Http.WebHost.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Mvc.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Optimization.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Razor.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.WebPages.Deployment.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.WebPages.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.WebPages.Razor.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\WebGrease.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\EntityFramework.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\EntityFramework.SqlServer.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Helpers.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Mvc.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Optimization.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Razor.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.WebPages.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.WebPages.Deployment.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.WebPages.Razor.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Antlr3.Runtime.pdb
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Newtonsoft.Json.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Net.Http.Formatting.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Http.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\System.Web.Http.WebHost.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\obj\Debug\MVC_Training.csprojResolveAssemblyReference.cache
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\obj\Debug\MVC_Training.dll
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\obj\Debug\MVC_Training.pdb
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\obj\Debug\MVC_Training.Migrations.init.resources
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\obj\Debug\MVC_Training.csproj.GenerateResource.Cache
+c:\Users\el-fayomi\Documents\Visual Studio 2015\Projects\MVC_Training\MVC_Training\obj\Debug\MVC_Training.Migrations.init1.resources
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\csc.exe
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\System.Collections.Immutable.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\vbc.exe
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\VBCSCompiler.exe
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\VBCSCompiler.exe.config
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\MVC_Training.dll.config
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\MVC_Training.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\MVC_Training.pdb
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Antlr3.Runtime.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.SqlServer.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Google.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Web.Infrastructure.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Newtonsoft.Json.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Owin.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Net.Http.Formatting.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Helpers.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.WebHost.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Mvc.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Optimization.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Razor.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Deployment.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Razor.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\WebGrease.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.SqlServer.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Helpers.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Mvc.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Optimization.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Razor.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Deployment.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Razor.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Antlr3.Runtime.pdb
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Newtonsoft.Json.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Net.Http.Formatting.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.WebHost.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Google.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.csprojResolveAssemblyReference.cache
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.Migrations.init.resources
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.Migrations.init1.resources
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.csproj.GenerateResource.Cache
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.dll
+D:\Faioumy@\WORK_SW_Developer\Projects\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.pdb
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\csc.exe
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\System.Collections.Immutable.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\vbc.exe
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\VBCSCompiler.exe
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\VBCSCompiler.exe.config
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\MVC_Training.dll.config
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\MVC_Training.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\MVC_Training.pdb
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Antlr3.Runtime.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.SqlServer.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Google.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Web.Infrastructure.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Newtonsoft.Json.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Owin.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Net.Http.Formatting.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Helpers.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.WebHost.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Mvc.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Optimization.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Razor.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Deployment.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Razor.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\WebGrease.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.SqlServer.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Helpers.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Mvc.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Optimization.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Razor.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Deployment.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Razor.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Antlr3.Runtime.pdb
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Newtonsoft.Json.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Net.Http.Formatting.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.WebHost.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Google.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.csprojResolveAssemblyReference.cache
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.Migrations.init.resources
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.Migrations.init1.resources
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.csproj.GenerateResource.Cache
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.pdb
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\csc.exe
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\System.Collections.Immutable.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\vbc.exe
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\VBCSCompiler.exe
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\roslyn\VBCSCompiler.exe.config
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\MVC_Training.dll.config
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\MVC_Training.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\MVC_Training.pdb
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Antlr3.Runtime.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.SqlServer.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Google.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Web.Infrastructure.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Newtonsoft.Json.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Owin.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Net.Http.Formatting.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Helpers.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.WebHost.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Mvc.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Optimization.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Razor.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Deployment.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Razor.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\WebGrease.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\EntityFramework.SqlServer.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Helpers.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Mvc.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Optimization.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Razor.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Deployment.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.WebPages.Razor.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Antlr3.Runtime.pdb
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Newtonsoft.Json.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Net.Http.Formatting.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\System.Web.Http.WebHost.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Google.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.csprojResolveAssemblyReference.cache
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.Migrations.init.resources
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.Migrations.init1.resources
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.csproj.GenerateResource.Cache
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.dll
+D:\Faioumy@\WORK_SW_Developer\FULL-STACK PROJECTS\ASP-NET C Sharp\test\TECHNO UNIVERSITY_MVC_Training\MVC_Training\obj\Debug\MVC_Training.pdb

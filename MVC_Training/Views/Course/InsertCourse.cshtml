@@ -1,0 +1,13 @@
+﻿
+@using (Html.BeginForm("InsertCourse", "Course", FormMethod.Post))
+{
+    <h2>Insert Course</h2>
+
+    <label for="couName">Course Name</label>
+    <input type="text" name="couName" />
+    <label for="couCode">Course Code</label>
+    <input type="text" name="couCode" />
+
+    <input type="submit" value="Add Course" class="button" />
+}
+
